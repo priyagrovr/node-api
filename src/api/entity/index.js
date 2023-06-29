@@ -1,0 +1,1 @@
+exports.bookEntity = require("./bookEntity");
